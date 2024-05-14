@@ -1,4 +1,6 @@
 # 4.Execution_of_NetworkCommands
+### NAME: LOKESH RAHUL V V
+### REG.NO: 212222100024
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
 ## Procedure: To do this EXPERIMENT- follows these steps:
@@ -27,6 +29,6 @@ This commands includes
 <BR>
 
 ## Output
-
+![image](https://github.com/lokeshrahulv/4.Execution_of_NetworkCommends/assets/118423842/96681098-ad0f-4504-8b9d-f3177a92fda1)
 ## Result
 Thus Execution of Network commands Performed 
